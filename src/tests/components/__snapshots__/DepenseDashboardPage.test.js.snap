@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render DepenseDashboardPage correctly 1`] = `
+<div>
+  <Connect(DepensesSummary) />
+  <Connect(DepenseListFilters) />
+  <Connect(DepenseList) />
+</div>
+`;

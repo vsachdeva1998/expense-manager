@@ -1,0 +1,11 @@
+.show-small-screen {
+  @media (min-width: $edge-breakpoint) {
+    display: none;
+  }
+}
+
+.show-big-screen {
+  @media (max-width: $edge-breakpoint) {
+    display: none;
+  }
+}
